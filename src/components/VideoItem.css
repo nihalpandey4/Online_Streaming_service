@@ -1,0 +1,31 @@
+.media-body{
+    margin-left: 1rem;
+    max-width: 200px;
+}
+
+.video-item .media img{
+    max-width: 150px;
+}
+
+.video-item{
+    display: flex !important;
+    align-items: center !important;
+    cursor: pointer;
+    margin-bottom: 2rem;
+    
+    border-bottom: 2px;
+    border-style: solid;
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    border-color:#c0c0c0;
+}
+
+
+.video-item .media-body h5{
+    font-weight: 800;
+}
+
+.video-item .media-body p{
+    margin-top: 1rem;
+}

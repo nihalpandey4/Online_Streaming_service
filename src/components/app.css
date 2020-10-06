@@ -1,0 +1,23 @@
+
+.ui.form{
+    margin:1rem auto;
+    margin-bottom: 3rem;
+    text-align: center;
+}
+.ui.list{
+    max-width: 750px;
+    margin: auto;
+}
+
+.video-item.item{
+    display: flex;
+}
+
+.App{
+    max-width: 90vw !important;
+    margin: 0 auto;
+}
+
+.player{
+    display: flex;
+}
