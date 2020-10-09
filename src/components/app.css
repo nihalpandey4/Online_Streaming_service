@@ -1,4 +1,3 @@
-
 .ui.form{
     margin:1rem auto;
     margin-bottom: 3rem;
@@ -8,7 +7,12 @@
     max-width: 750px;
     margin: auto;
 }
-
+.ui.list.not .media-body{
+    max-width: 50vw;
+}
+.ui.list.not .media-body:hover{
+    color: darkgrey;
+}
 .video-item.item{
     display: flex;
 }

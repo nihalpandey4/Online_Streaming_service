@@ -28,6 +28,7 @@ class App extends React.Component {
         <div className="player">
         <VideoDetail video={this.state.selectedVideo} />
         <VideoList
+          video= {this.state.selectedVideo}
           videos={this.state.videos}
           selectedVideo={this.videoSelect}
         />

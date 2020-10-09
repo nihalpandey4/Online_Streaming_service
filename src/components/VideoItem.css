@@ -2,7 +2,9 @@
     margin-left: 1rem;
     max-width: 200px;
 }
-
+.media-body:hover{
+    color: dimgray;
+}
 .video-item .media img{
     max-width: 150px;
 }
