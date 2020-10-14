@@ -1,5 +1,7 @@
 # Online_Streaming_Service
 
+## Link to access -  https://nihalpandey4-online-video-streaming.netlify.app/
+
 ## Available Scripts
 
 In the project directory, you can run:
